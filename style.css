@@ -16,6 +16,7 @@ img{max-width:100%;display:block}html{line-height:1.15;-webkit-text-size-adjust:
 .container{
   margin: 10em auto;
   max-width: 500px;
+  padding: 0 30px;
 }
 input{
   display: block;
